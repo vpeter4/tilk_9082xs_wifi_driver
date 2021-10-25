@@ -1,0 +1,5 @@
+config TLL9082ES
+	tristate "Realtek 9082E SDIO WiFi"
+	depends on USB
+	---help---
+	  Help message of TLL9082ES

@@ -1,0 +1,5 @@
+#!/bin/bash
+rmmod 9081cu
+rmmod 9081ce
+rmmod 9081du
+rmmod 9081de
